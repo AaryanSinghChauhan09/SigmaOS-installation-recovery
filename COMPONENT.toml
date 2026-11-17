@@ -3,7 +3,7 @@ name = "SigmaOS-installation-recovery"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "installation-recovery component"
+description = "Installation Recovery"
 upstream = []
 
 [contract]
